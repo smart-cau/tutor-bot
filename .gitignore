@@ -1,0 +1,5 @@
+.devcontainer
+.github
+node_modules
+yarn.lock
+.env
